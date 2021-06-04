@@ -1,7 +1,5 @@
-# Personal-Projects
-List of personal projects that I have the code readily available for:
-Laser Tag
+An app made to track a person's finances and give basic suggestions on spending and saving.
+Various issues still exist and the code is fairly messy.
 
-Financial
 
-File storage site
+This is the earliest project I could find my source code to. It was my first attempt at building an Android app using Android studio. 
